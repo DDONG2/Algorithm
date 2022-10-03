@@ -2,7 +2,7 @@ package HeapHash;
 
 import java.io.IOException;
 
-public class SmallestElement {
+public class SmallestElement { // 2
     public static void main(String[] args) throws IOException {
         int[][] arrTest = {{1, 2, 3, 4, 5}, {6, 7, 8, 9, 10}};
         smallBinarySearch(arrTest, 5);
